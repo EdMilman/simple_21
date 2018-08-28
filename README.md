@@ -10,7 +10,10 @@ The winner is the player who has come closest to 21 without exceeding it. In the
 
 Simplifications:
 
-The game is only played once (so it's actually just one "hand").
-"Cards" are the numbers 1 through 10.
-There is nothing special about the "Ace" or about any other card.
-Cards are randomly generated, not drawn from a deck of limited size.
+•The game is only played once (so it's actually just one "hand").
+
+•"Cards" are the numbers 1 through 10.
+
+•There is nothing special about the "Ace" or about any other card.
+
+•Cards are randomly generated, not drawn from a deck of limited size.
